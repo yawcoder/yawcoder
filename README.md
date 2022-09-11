@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @yawcoder
 - 👀 I’m interested in front end web development
-- 😎 I'm an expert in HTML, CSS.
-- 🌱 I’m currently javascript
-- 💞️ I’m looking to collaborate on web and app development
-- 📫 How to reach me isaac16anim@gmail.com
+- 😎 I'm an expert in CSS and JavaScript.
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on any web dev project
+- 📫 You can reach me isaac16anim@gmail.com
 
 <!---
 yawcoder/yawcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
