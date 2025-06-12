@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **AI Engineering and Prompting**
 
-- 👨‍💻 All of my projects are available at [https://isaacanim.vercel.app](https://isaacanim.vercel.app)
+- 👨‍💻 All of my projects are available at [https://isaacanim.com](https://isaacanim.com)
 
-- 📝 I regularly write articles on [https://isaacanim.vercel.app/blog](https://isaacanim.vercel.app/blog)
+- 📝 I regularly write articles on [https://isaacanim.com/blog](https://isaacanim.com/blog)
 
 - 💬 Ask me about **Ways to build a sustainable income as a developer**
 
-- 📫 How to reach me **isaac16anim@gmail.com**
+- 📫 How to reach me **me@isaacanim.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
