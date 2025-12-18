@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Boamah Anim</h1>
-<h3 align="center">A Solo dev exploring was to create sustainable income with my skills</h3>
+<h3 align="center">A Solo dev exploring ways to create sustainable income with my skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yawcoder&label=Profile%20views&color=0e75b6&style=flat" alt="yawcoder" /> </p>
 
