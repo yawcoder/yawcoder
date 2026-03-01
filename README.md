@@ -27,7 +27,7 @@ I build small products, run real experiments, and document everything.
 
 ## 🧪 Current Projects
 
-### 🔹 IndieFails  
+### 🔹 [IndieFails](https://indiefails.vercel.app)
 A public database of failed indie hacker projects - learning from what didn’t work.
 
 ---
