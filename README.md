@@ -50,5 +50,5 @@ No hype. Just documented execution.
 
 ## 🤝 Connect With Me
 
-- 🌍 Blog: [isaacanim.com](https://isaacanim.com)  
+- 🌍 Blog: [isaacanim.com](https://isaacanim.com/blog)  
 - 💼 LinkedIn: [Isaac Anim](https://linkedin.com/in/yawcoder)
