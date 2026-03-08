@@ -1,8 +1,6 @@
 # 🚀 Isaac — Solo Developer Building Sustainable Income Online
 
-I’m a solo developer exploring how to build sustainable income on the internet without necessarily chasing a job.
-
-I build small products, run real experiments, and document everything.
+I’m a solo developer exploring how to build sustainable income by building small products, running real experiments and documenting everything.
 
 ---
 
@@ -18,8 +16,7 @@ I build small products, run real experiments, and document everything.
 ## 🛠 Tech Stack
 
 **Frontend:** Next.js, React, TypeScript  
-**Backend:** Node.js, API Routes  
-**Database:** Firebase, PostgreSQL  
+**Backend:** Node.js, Firebase, API Routes  
 **Styling:** Tailwind CSS  
 **Deployment:** Vercel, DigitalOcean  
 
